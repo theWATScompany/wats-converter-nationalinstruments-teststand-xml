@@ -1,0 +1,11 @@
+{
+    "assemblyName": "TestStandXMLConverter",
+    "converterClass": "Virinco.WATS.Converter.NI.TestStand.TestStandXMLConverter",
+    "displayName": "NI TestStand XML Converter",
+    "description": "Converts National Instruments TestStand XML report files to WATS UUT reports.",
+    "version": "1.0.0",
+    "fileFilter": "*.xml",
+    "uploadPath": "C:\\ProgramData\\Virinco\\WATS\\NITestStandXMLConverters",
+    "postProcessAction": "Archive",
+    "productGuid": "d9b64c42-9a13-41b4-ba49-b4cb5d272a1c"
+}
